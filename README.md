@@ -17,8 +17,8 @@ Ez egy egyszerű, azonban szórakoztató kis játék, amelyben egy **ló** és e
 
 ## Képernyőképek
 
-![Kezdőállapot](kezdoallapot.png)
+![Kezdőállapot](kezdoallapot.jpg)
 ---
-![Futam közben](futam_kozbe.png)
+![Futam közben](futam_kozbe.jpg)
 ---
-![Vesztettél](vesztettel.png)
+![Vesztettél](vesztettel.jpg)
