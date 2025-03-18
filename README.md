@@ -1,0 +1,1 @@
+# allati_futoverseny_scratch_projekt
